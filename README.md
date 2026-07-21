@@ -7,6 +7,8 @@ For an up-to-date development environment configuration guide: **[samer.dev/reac
 For general help: **[jscomplete.com/help](https://jscomplete.com/help)**
 
 Note: Course started on 07/19/2026
+Note: several dependencias are outdate and depricated.
+The course needs an update.
 
 ### Reference Text
 
