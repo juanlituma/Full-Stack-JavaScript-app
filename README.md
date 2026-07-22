@@ -9,6 +9,7 @@ For general help: **[jscomplete.com/help](https://jscomplete.com/help)**
 Note: Course started on 07/19/2026
 Note: several dependencias are outdate and depricated.
 The course needs an update.
+Note: The course has so many erros due to incompatibilities.No recommended.
 
 ### Reference Text
 
