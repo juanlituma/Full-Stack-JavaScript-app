@@ -10,6 +10,7 @@ Note: Course started on 07/19/2026
 Note: several dependencias are outdate and depricated.
 The course needs an update.
 Note: The course has so many erros due to incompatibilities.No recommended.
+Final note: up to date dependency does work with this model
 
 ### Reference Text
 
