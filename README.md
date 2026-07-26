@@ -12,6 +12,9 @@ The course needs an update.
 Note: The course has so many erros due to incompatibilities.No recommended.
 Final note: up to date dependency does work with this model
 
+One: repo new dependencies
+Two: original proyect
+
 ### Reference Text
 
 #### package.json scripts
