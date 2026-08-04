@@ -73,3 +73,8 @@ Note: Course started on 07/19/2026
   ]
 }
 ```
+different dependencies
+How to run it
+docker: docker-compose up
+server:npx tsx src/server/server.ts
+webpack: nom run dev:bundler
